@@ -1,0 +1,20 @@
+C:/MAXwork/tb_lockmall.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/MAXwork/tb_lockmall.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_codelock
+-- Compiling architecture testbench of tb_codelock
+
+} {} {}} C:/MAXwork/codelock.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/MAXwork/codelock.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity codelock
+-- Compiling architecture behavior of codelock
+
+} {} {}}
